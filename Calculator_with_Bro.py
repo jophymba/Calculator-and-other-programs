@@ -26,6 +26,6 @@ while further == "y":
           further = input("Press 'y' to continue. Press 'q' to exit. ")
           
 
-print("Thank you for using today")
+print("Thank you for using today.")
 
 
